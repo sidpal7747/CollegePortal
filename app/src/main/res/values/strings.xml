@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">CollegePortal</string>
+    <string-array name="heading">
+        <item>Heading 1</item>
+        <item>Heading 2</item>
+    </string-array>
+    <string-array name="details">
+        <item>A notice is the most common method of communication which gives information regarding an important event that is about to take place.
+            A notice conveys information in a very precise manner.
+            With the help of the notice information is displayed publicly for others to know and follow.</item>
+        <item>A notice is the most common method of communication which gives information regarding an important event that is about to take place.
+            A notice conveys information in a very precise manner.
+            With the help of the notice information is displayed publicly for others to know and follow.</item>
+    </string-array>
+    <string-array name="time">
+        <item>9:30 AM</item>
+        <item>10:30 AM</item>
+    </string-array>
 </resources>
